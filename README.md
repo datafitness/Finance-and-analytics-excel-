@@ -1,4 +1,9 @@
-# Finance-and-analytics-excel-
+# Finance-and-analytics-excel-#
+
+
+
+![image](https://github.com/datafitness/Finance-and-analytics-excel-/assets/163381138/16fcbdc9-3c70-4e34-b329-8efa1557b232)
+
 
 AtliQ Hardware - Sales & Finance Analytics Project
 
@@ -39,4 +44,11 @@ AtliQ's business users have tasked us with preparing sales and financial reports
 3. Sales peak during festive seasons (October to December).
 4. Top 3 customers: Amazon, AtliQ Exclusive, AtliQ e-store.
 5. Introduced 16 new products in 2021; AQ Qwerty led sales at 22M.
+
+
+![image](https://github.com/datafitness/Finance-and-analytics-excel-/assets/163381138/585a79f1-abdc-4367-9ad0-f7dd613a50fe)
+
+![image](https://github.com/datafitness/Finance-and-analytics-excel-/assets/163381138/6d05a485-2623-4c84-ac2b-1fa86e2d3828)
+
+
 
